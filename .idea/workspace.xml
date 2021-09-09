@@ -2,168 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dd7f4413-ec81-4a54-9b39-34c439395074" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_003/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_003/T1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_004/T.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_012_Volatile/T01_HelloVolatile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_017_MoreAboutSync/DoNotLockString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T05_ReentrantLock5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T05_CountDownLatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T06_LockSupport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T07_LockSupport_WithoutSleep.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_024_FromVectorToQueue/TicketSeller1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_024_FromVectorToQueue/TicketSeller3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_024_FromVectorToQueue/TicketSeller4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/JustTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/JustTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/Tets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/Tets.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v1/LongEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v1/LongEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v1/LongEventFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v1/LongEventFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v1/LongEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v1/LongEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v1/LongEventProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v1/LongEventProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v1/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/LongEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v4/LongEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/LongEventFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/LongEventFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/LongEventHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/LongEventHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/LongEventProducer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/LongEventProducer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v2/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v3/LongEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v2/LongEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v3/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v3/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v4/LongEvent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v3/LongEvent.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v4/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/disruptor/v4/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/disruptor/v4/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_000/T01_WhatIsThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T01_WhatIsThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_000/T02_HowToCreateThread.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T02_HowToCreateThread.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_000/T03_Sleep_Yield_Join.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T03_Sleep_Yield_Join.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_000/T04_ThreadState.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T04_ThreadState.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_001/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_001/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_002/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_002/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_003/T.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_003/T1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_004/T.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_005/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_005/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_006/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_006/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_007/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_007/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_008/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_008/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_009/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_009/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_010/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_010/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_011/T.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_011/T.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_011_01/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_011_01/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_012_Volatile/T01_HelloVolatile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_012_Volatile/T02_VolatileReference1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_012_Volatile/T02_VolatileReference1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_012_Volatile/T03________VolatileReference2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_012_Volatile/T03________VolatileReference2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_012_Volatile/T04_VolatileNotSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_012_Volatile/T04_VolatileNotSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_012_Volatile/T05_VolatileVsSync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_012_Volatile/T05_VolatileVsSync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_016_LockOptimization/FineCoarseLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_016_LockOptimization/FineCoarseLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_017_MoreAboutSync/DoNotLockString.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_017_MoreAboutSync/SyncSameObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_017_MoreAboutSync/SyncSameObject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_018_00_AtomicXXX/T01_AtomicInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_018_00_AtomicXXX/T01_AtomicInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_018_00_AtomicXXX/T02_AtomicVsSyncVsLongAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_018_00_AtomicXXX/T03________SyncVsLongAdder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_018_00_AtomicXXX/T03________SyncVsLongAdder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_018_01_Unsafe/HelloUnsafe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_018_01_Unsafe/HelloUnsafe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T01_ReentrantLock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T01_ReentrantLock1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T02_ReentrantLock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T02_ReentrantLock2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T03_ReentrantLock3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T03_ReentrantLock3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T04_ReentrantLock4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T04_ReentrantLock4.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T05_ReentrantLock5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T06_TestCountDownLatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T06_TestCountDownLatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T07_TestCyclicBarrier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T07_TestCyclicBarrier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T08_TestPhaser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T08_TestPhaser.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T09_TestPhaser2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T09_TestPhaser2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T10_TestReadWriteLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T10_TestReadWriteLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T11_TestSemaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T11_TestSemaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T12_TestExchanger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T12_TestExchanger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020/T13_TestLockSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020/T13_TestLockSupport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T01_WithoutVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T01_WithoutVolatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T02_WithVolatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T02_WithVolatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T03_NotifyHoldingLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T03_NotifyHoldingLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T04_NotifyFreeLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T04_NotifyFreeLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T05_CountDownLatch.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T06_LockSupport.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T07_LockSupport_WithoutSleep.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_020_01_Interview/T08_Semaphore.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_020_01_Interview/T08_Semaphore.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_01_interview/MyContainer1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_01_interview/MyContainer1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_01_interview/MyContainer2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_01_interview/MyContainer2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_02_AQS/MLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_02_AQS/MLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_02_AQS/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_02_AQS/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_02_AQS/Sync.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_02_AQS/Sync.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_02_AQS/TestReentrantLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_02_AQS/TestReentrantLock.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_021_03_VarHandle/T01_HelloVarHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_021_03_VarHandle/T01_HelloVarHandle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/M.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/M.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/T01_NormalReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/T01_NormalReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/T02_SoftReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/T02_SoftReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/T03_WeakReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/T03_WeakReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/T04_PhantomReference.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/T04_PhantomReference.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/ThreadLocal1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/ThreadLocal1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_022_RefTypeAndThreadLocal/ThreadLocal2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_022_RefTypeAndThreadLocal/ThreadLocal2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_01_Containers/HelloQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_01_Containers/HelloQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_01_Containers/T01_HelloArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_01_Containers/T01_HelloArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_01_Containers/T02_CollectionListSetQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_01_Containers/T02_CollectionListSetQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_02_FromHashtableToCHM/Constants.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/Constants.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_02_FromHashtableToCHM/T01_TestHashtable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T01_TestHashtable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_023_02_FromHashtableToCHM/T04_TestConcurrentHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T04_TestConcurrentHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_024_FromVectorToQueue/TicketSeller1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_024_FromVectorToQueue/TicketSeller2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_024_FromVectorToQueue/TicketSeller2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_024_FromVectorToQueue/TicketSeller3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_024_FromVectorToQueue/TicketSeller4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_024_FromVectorToQueue/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_024_FromVectorToQueue/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T01_ConcurrentMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T01_ConcurrentMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T02_CopyOnWriteList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T02_CopyOnWriteList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T03_SynchronizedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T03_SynchronizedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T04_ConcurrentQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T04_ConcurrentQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T05_LinkedBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T05_LinkedBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T06_ArrayBlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T06_ArrayBlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T07_01_PriorityQueque.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T07_01_PriorityQueque.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T07_DelayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T07_DelayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T08_SynchronusQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T08_SynchronusQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/T09_TransferQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/T09_TransferQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_025/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_025/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T01_00_Question.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T01_00_Question.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T02_00_LockSupport.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T02_00_LockSupport.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T03_00_cas.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T03_00_cas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T04_00_BlockingQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T04_00_BlockingQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T05_00_AtomicInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T05_00_AtomicInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T06_00_sync_wait_notify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T06_00_sync_wait_notify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T07_00_sync_wait_notify.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T07_00_sync_wait_notify.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T08_00_lock_condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T08_00_lock_condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T09_00_lock_condition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T09_00_lock_condition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T10_00_PipedStream.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T10_00_PipedStream.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T12_00_Exchanger_Not_Work.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T12_00_Exchanger_Not_Work.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/T13_TransferQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/T13_TransferQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_00_interview/A1B2C3/readme" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_00_interview/A1B2C3/readme" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T01_MyExecutor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T01_MyExecutor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T02_ExecutorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T02_ExecutorService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T03_Callable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T03_Callable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T04_Executors.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T04_Executors.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T05_00_HelloThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T05_00_HelloThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T05_ThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T05_ThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T06_00_Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T06_00_Future.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T06_01_CompletableFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T06_01_CompletableFuture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T07_SingleThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T07_SingleThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T08_CachedPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T08_CachedPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T09_FixedThreadPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T09_FixedThreadPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T10_ScheduledPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T10_ScheduledPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T11_WorkStealingPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T11_WorkStealingPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T12_ForkJoinPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T12_ForkJoinPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T13_ParallelStreamAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T13_ParallelStreamAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/T14_MyRejectedHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/T14_MyRejectedHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/ThreadPoolExecutor源码解析.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/ThreadPoolExecutor源码解析.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_026_01_ThreadPool/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_026_01_ThreadPool/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_027_future_to_loom/T01_Future.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_027_future_to_loom/T01_Future.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_027_future_to_loom/T02_ListenableFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_027_future_to_loom/T02_ListenableFuture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_028_FalseSharing/T01_CacheLinePadding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_028_FalseSharing/T01_CacheLinePadding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_028_FalseSharing/T02_CacheLinePadding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_028_FalseSharing/T02_CacheLinePadding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/mashibing/juc/c_029_WriteCombining/WriteCombining.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_029_WriteCombining/WriteCombining.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/马老师_多线程与高并发.md" beforeDir="false" afterPath="$PROJECT_DIR$/马老师_多线程与高并发.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -184,20 +23,55 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="T01_WhatIsThread.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="T01_WhatIsThread.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T01_WhatIsThread.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="27">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="162">
               <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="马老师_多线程与高并发.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/马老师_多线程与高并发.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor>
+                <folding>
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                  <element signature="e#0#1454#0" expanded="true" />
+                  <element signature="n#!!doc" expanded="true" />
+                </folding>
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -210,15 +84,6 @@
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="T01_CacheLinePadding.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_028_FalseSharing/T01_CacheLinePadding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -313,6 +178,32 @@
             <path>
               <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
               <item name="JUC" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JUC" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JUC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="weizyue" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -415,12 +306,20 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1631214555824</updated>
-      <workItem from="1631214556956" duration="1667000" />
+      <workItem from="1631214556956" duration="2180000" />
     </task>
+    <task id="LOCAL-00001" summary="第一次提交">
+      <created>1631216428908</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1631216428908</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1667000" />
+    <option name="totallyTimeSpent" value="2180000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -436,10 +335,10 @@
       <window_info anchor="bottom" id="Database Changes" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="7" weight="0.3293348" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3293348" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="1" visible="true" weight="0.3293348" />
+      <window_info anchor="bottom" id="Terminal" order="1" weight="0.3293348" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="0" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.17110874" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.15458423" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="6" weight="0.3293348" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
@@ -491,14 +390,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T02_TestHashMap.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_023_02_FromHashtableToCHM/T03_TestSynchronizedHashMap.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
@@ -822,17 +718,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T01_WhatIsThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
           <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/马老师_多线程与高并发.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <folding>
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+              <element signature="e#0#1454#0" expanded="true" />
+              <element signature="n#!!doc" expanded="true" />
+            </folding>
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/weizyue/juc/c_000/T01_WhatIsThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
